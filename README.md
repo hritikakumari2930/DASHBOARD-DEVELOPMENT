@@ -36,3 +36,7 @@ hritikapoerbiyoutube report.pdf – A static PDF export of the Power BI dashboar
  Purpose:
 The purpose of this report is to visually present the YouTube channel's performance in a clear and interactive manner (originally interactive in Power BI). It is suitable for portfolio presentation, business reviews, digital marketing analysis, or academic submission.
 
+Output:
+
+<img width="1320" height="787" alt="Image" src="https://github.com/user-attachments/assets/db9f3982-454f-4f2d-a3ac-4dded7898d80" />
+
